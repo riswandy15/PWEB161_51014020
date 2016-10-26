@@ -1,0 +1,86 @@
+body
+{
+	background:linear-gradient(to left, #a4faff, #FFF);
+	text-align:center;
+}
+
+img
+{
+	width:350px ; height:250px;
+	padding-left:10px;
+	margin-top:50px;
+}
+
+h1
+{
+	color: #ff0000;
+	font-weight:bold;
+	font-size:30px;
+	font-family:verdana;
+	padding-left:10px;
+	text-align:center;
+	text-shadow: 1px 2px black;
+}
+
+.judulutama
+{
+	color: #8942f4;
+	font-weight:bold;
+	font-size:48px;
+	font-family:sans-serif;
+	padding-left:60px;
+	margin-bottom:5px;
+	text-shadow: 2px 3px 3px red;
+}
+
+ol
+{
+	background: #b7f58e;
+	border: solid;
+	padding: 30px;
+	margin-left :40px;
+	margin-right:650px;
+}
+
+ol li 
+{
+    	background: #ffe5e5;
+    	padding: 4px;
+    	margin-left: 20px;
+	font-size:20px;   
+}
+
+p
+{	
+	background:white;
+	padding: 15px;
+	border: ridge  10px blue;
+	font-size:25px;
+	margin:20px 250px 20px;
+}
+
+.ratakiri
+{
+	text-align:left;
+}
+
+.tombol
+{
+	background: #2c97df;
+	color:white;
+	border-top:0;
+	border-left:0;
+	border-right:0;
+	border-bottom:0;
+	border-bottom:5px solid #2a80b9;
+	padding:10px 20px;
+	text-decoration:none;
+	font-family:sans-serif;
+	font-size:11pt;
+}
+
+a
+{
+	color: blue;	
+	text-decoration:none;
+}
