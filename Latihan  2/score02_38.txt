@@ -1,0 +1,17 @@
+20/10/16
+-----------
++10 tugas siap
++5   untuk 5 lagu tambahan setelah 5 lagu pertama
+-20  untuk setiap penggunaan opsi tag kecuali kecuali <img>,<a>
+___+
+ -5
+
+
+2710/16
+----------
++10 untuk tugas dikerjakan
+-   6 untuk pengunaan nama warna dalam css
++15 untuk setiap selector yang lebih dari 5 baris
++24 untuk setiap pemanggilan class yang sama dalam html
+___+
+  38
