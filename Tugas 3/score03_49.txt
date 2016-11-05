@@ -1,0 +1,8 @@
++10 untuk tugas selesai (sudah sync ke GitHub per tanggal 02/11/16 23:59)
++40 untuk setiap selector yang lebih dari 5 baris
++12 untuk setiap .class ke-5 sampai .class ke-10
+-11 untuk setiap .class ke-11 dst.
++3 untuk tampilan menu lagu yang unik (bukan link biasa)
+-5 untuk tampilan yang rusak saat dikecilkan
+___-
+ 49
