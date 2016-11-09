@@ -1,0 +1,112 @@
+.navbar-custom
+{
+  background-color: #ea143c;
+}
+
+header
+{
+  background-color: #8f108e;
+}
+
+.profile
+{
+  max-width: 450px;
+	border-radius: 150%;
+	height: 250px;
+}
+.name
+{
+  text-shadow: 2px 3px #f00;
+  color: #0ff;
+}
+
+hr.star-light:after
+{
+  background-color: #f00;
+}
+
+hr.star-light
+{
+  border-color: #0ff;
+}
+
+hr.star-primary
+{
+  border-color: #0ff;
+}
+
+hr.star-primary:after
+{
+  background-color: #f00;
+  color: #fff;
+}
+
+.portfolio-item .portfolio-link .caption
+{
+  background: rgba(10, 243, 32, 0.7);
+	border-radius: 20%;
+}
+
+#portfolio
+{
+  background: #659afc;
+}
+
+.imglagu
+{
+  border-radius: 20%;
+  border: 2px solid #f00;
+  background-color: #fff;
+}
+
+p
+{color:#fff;}
+
+.navbar-custom .navbar-nav li a:hover {
+  color: #0808ac;
+  outline: none;
+}
+.navbar-custom .navbar-nav li.active a {
+  color: #fff;
+  background: #000;
+}
+.navbar-custom .navbar-nav li.active a:hover,
+.navbar-custom .navbar-nav li.active a:focus,
+.navbar-custom .navbar-nav li.active a:active {
+  color: #fff;
+  background: #000;
+}
+.modal-content
+{
+    background-color: #8f108e;
+}
+
+.modal-body, h2
+{
+  color:#01ff90;
+  text-shadow: 2px 3px #000;
+}
+#about
+{
+  background-color: #8f108e;
+}
+
+#contact
+{
+  background-color: #8f108e;
+}
+
+#name ,#email ,#phone ,#message, label
+{
+  color:  #fff;
+}
+
+footer .footer-above
+{
+  background-color: #e7526e;
+}
+
+footer .footer-below
+{
+  background-color: #ea143c;
+}
