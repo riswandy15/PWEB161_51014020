@@ -1,0 +1,60 @@
+/* warnanavbarheader */
+.navbar-inverse
+{
+    background-color: #f00;
+    border-color: #ff0;
+}
+
+/* warna tulisan judul navbar header*/
+.navbar-inverse .navbar-brand
+{
+    color: #ff0;
+}
+
+/* warna tulisan hover navbar */
+.navbar-inverse .navbar-nav > li > a:focus, .navbar-inverse .navbar-nav > li > a:hover
+{
+    color: #f00;
+    font-weight: bold;
+    background-color: #fff;
+}
+
+/* warna navbar active*/
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:focus, .navbar-inverse .navbar-nav > .active > a:hover {
+    color: #F00;
+    font-weight: bold;
+    background-color: #fff;
+}
+
+/* border navbar */
+.navbar-static-top {
+    z-index: 1000;
+    border-width: 1px 1px 1px ;
+}
+
+/*warna tulisan navbar */
+.navbar-inverse .navbar-nav > li > a {
+    color: #fff;
+}
+
+/* untuk menu dropdown */
+.navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:focus, .navbar-inverse .navbar-nav > .open > a:hover {
+    color: #FFF;
+    background-color: #f1A900;
+}
+
+/*untuk warna menu dropdown mode kecil di hover*/
+.navbar-inverse .navbar-nav .open .dropdown-menu > li > a:focus, .navbar-inverse .navbar-nav .open .dropdown-menu > li > a:hover {
+    color: #F00;
+    background-color: #ff0;
+}
+
+/* untuk warna tulisan menu dropdown*/
+.navbar-inverse .navbar-nav .open .dropdown-menu > li > a {
+    color: #000;
+}
+
+.judul-daftar
+{
+  margin: 100px auto 20px;
+}
