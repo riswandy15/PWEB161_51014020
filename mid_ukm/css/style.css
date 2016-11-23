@@ -122,10 +122,7 @@ label{
 .besar
 {font-size: 18px;}
 
-/*untuk kasi border bundar*/
-.bundar
-{
-border: 0px solid #ff0;
-border-radius: 5px;
-background-color: #0000f2;
+/*untuk bikin bundar hover dan active di menu dropdown*/
+.dropdown, .dropdown-menu, a,a:hover{
+  border-radius:10px;
 }
