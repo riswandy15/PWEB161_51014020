@@ -4,7 +4,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 $route['biodata'] = 'biodata';
 $route['ukmku'] = 'ukm';
 $route['ceritaku'] = 'cerita';
-$route['plus1'] = 'kampus';
+$route['plus'] = 'kampus';
 
 
 
