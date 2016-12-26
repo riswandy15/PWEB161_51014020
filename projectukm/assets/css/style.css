@@ -1,0 +1,55 @@
+.f1
+{
+ font-size: 20px;
+ text-align: center;
+}
+
+.f2
+{
+	color: #fff;
+}
+
+.margint30{
+  margin-top: 30px;
+}
+
+.navbar-default{
+  background-color: #1e88e5;
+  color: #e3f2fd;
+}
+
+.navbar-default .navbar-nav>li>a{
+  color: #e3f2fd;
+}
+
+.navbar-default .navbar-brand{
+  color: #e3f2fd;
+}
+
+
+
+/*Signup page CSS*/
+body {
+    padding-top:50px;
+}
+fieldset {
+    border: thin solid #ccc;
+    border-radius: 4px;
+    padding: 20px;
+    padding-left: 40px;
+    background: #fbfbfb;
+}
+legend {
+   color: #678;
+}
+.form-control {
+    width: 95%;
+}
+label small {
+    color: #678 !important;
+}
+span.req {
+    color:maroon;
+    font-size: 112%;
+}
+/*end of Signup page CSS*/
